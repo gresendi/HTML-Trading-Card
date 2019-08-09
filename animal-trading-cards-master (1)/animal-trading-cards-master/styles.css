@@ -1,0 +1,36 @@
+
+.container{
+  border: 2px solid grey;
+  width:320px;
+  padding:10px;
+  text-align:center;
+  box-shadow:10px 10px #BBBCBB;
+  font-family: "Arial",san-serif;
+
+}
+.ital{font-style:italic;
+font-family: "Arial",san-serif;}
+
+li {font-family: "Arial",san-serif;
+  list-style-type:none;
+  padding:left;
+}
+li span{
+  font-weight:bold;
+}
+
+.info-container{
+  border:2px solid grey;
+  width:296px;
+  padding:2.5px;
+  text-align:left;
+  margin:8px;
+}
+h3{font-size:23px;
+}
+
+
+
+ul{
+  padding:0;}
+p{font-family: "Arial", san-serif;}
